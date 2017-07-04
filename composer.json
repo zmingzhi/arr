@@ -3,10 +3,11 @@
   "description": "数组增强组件",
   "type": "project",
   "keywords": [
-    "array"
+    "array",
+	"数组增强"
   ],
   "license": "MIT",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0"
   },
