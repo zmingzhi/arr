@@ -1,10 +1,9 @@
 {
   "name": "zongphp/arr",
   "description": "数组增强组件",
-  "type": "project",
   "keywords": [
-    "array",
-	"数组增强"
+    "zongphp",
+    "array"
   ],
   "license": "MIT",
   "minimum-stability": "stable",
